@@ -1,0 +1,74 @@
+body{
+    background-color: #c9ada7;
+}
+
+h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    color: #4a4e69;
+ 
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+.divfoto{
+    position: absolute;
+    float: left;
+    z-index: 1;
+    margin-right: 200px;
+    padding:15px;
+    background-color: #22223b;
+}
+.diveu {
+    position: absolute;
+    
+    z-index: 2;
+    top: 250px;
+    left: 350px;
+}
+.divnome{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f2e9e4;
+    background-color: #22223b;
+    z-index: 3;
+    text-align: center;
+} 
+.divindice{
+    position: absolute;
+    z-index: 2;
+    left: 350px;
+    top: 70px;
+    
+}
+ul li a{
+    text-decoration: none;
+}
+ul li a:hover{
+    background-color: #22223b;
+    color: white;
+    border-radius: 3px;
+    padding:2px;
+}
+
+h2 {
+    background-color: #22223b;
+    color:white;
+    padding-right: 
+}
+
+.divskills{
+    position: absolute;
+    z-index: 5;
+    top: 500px;
+    
+}
+
+.divblog{
+    position: absolute;
+    z-index:6;
+    top:870px
+}
